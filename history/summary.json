@@ -34,7 +34,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2024-06-19": 1232,
+      "2024-06-19": 1237,
       "2024-06-18": 612
     }
   },
@@ -133,19 +133,19 @@
     "url": "https://dev.netz-sap.macoapp.de",
     "icon": "https://icons.duckduckgo.com/ip3/dev.netz-sap.macoapp.de.ico",
     "slug": "cc-backoffice-poc",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 656,
-    "timeDay": 655,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 643,
+    "timeDay": 634,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2024-06-19": 1
+      "2024-06-19": 6
     }
   },
   {
@@ -327,7 +327,7 @@
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-06-19": 1232,
+      "2024-06-19": 1237,
       "2024-06-18": 612
     }
   },
@@ -348,7 +348,7 @@
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2024-06-19": 1232,
+      "2024-06-19": 1237,
       "2024-06-18": 612
     }
   },
@@ -387,7 +387,7 @@
     "timeMonth": 606,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-06-19": 1232,
+      "2024-06-19": 1237,
       "2024-06-18": 612
     }
   },
