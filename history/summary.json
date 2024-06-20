@@ -34,7 +34,8 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-06-19": 1411,
+      "2024-06-20": 11,
+      "2024-06-19": 1440,
       "2024-06-18": 612
     }
   },
@@ -134,19 +135,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.netz-sap.macoapp.de.ico",
     "slug": "cc-backoffice-poc",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 734,
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 693,
-    "dailyMinutesDown": {
-      "2024-06-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CC - RABBITMQ MANAMGEMENT",
@@ -327,7 +326,8 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-06-19": 1411,
+      "2024-06-20": 12,
+      "2024-06-19": 1440,
       "2024-06-18": 612
     }
   },
@@ -348,7 +348,8 @@
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-06-19": 1411,
+      "2024-06-20": 12,
+      "2024-06-19": 1440,
       "2024-06-18": 612
     }
   },
@@ -387,7 +388,8 @@
     "timeMonth": 631,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-06-19": 1411,
+      "2024-06-20": 12,
+      "2024-06-19": 1440,
       "2024-06-18": 612
     }
   },
