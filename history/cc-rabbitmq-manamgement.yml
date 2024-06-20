@@ -1,7 +1,7 @@
 url: $RABBITMQ_MANAGEMENT
 status: up
 code: 200
-responseTime: 443
-lastUpdated: 2024-06-19T23:03:37.721Z
+responseTime: 490
+lastUpdated: 2024-06-20T23:04:22.287Z
 startTime: 2024-06-18T13:47:59.782Z
 generator: Upptime <https://github.com/upptime/upptime>
