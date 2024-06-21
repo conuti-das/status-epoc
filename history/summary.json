@@ -34,7 +34,7 @@
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2024-06-21": 489,
+      "2024-06-21": 1086,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 612
@@ -136,37 +136,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.netz-sap.macoapp.de.ico",
     "slug": "cc-backoffice-poc",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 683,
-    "timeDay": 658,
+    "timeDay": 676,
     "timeWeek": 683,
     "timeMonth": 683,
     "timeYear": 683,
-    "dailyMinutesDown": {
-      "2024-06-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CC - RABBITMQ MANAMGEMENT",
     "url": "$RABBITMQ_MANAGEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-rabbitmq-manamgement",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 490,
-    "timeWeek": 410,
-    "timeMonth": 410,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 2901,
+    "timeDay": 7924,
+    "timeWeek": 2901,
+    "timeMonth": 2901,
+    "timeYear": 2901,
+    "dailyMinutesDown": {
+      "2024-06-21": 0
+    }
   },
   {
     "name": "MCS - ADMIN UI",
@@ -329,7 +329,7 @@
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-06-21": 489,
+      "2024-06-21": 1086,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 612
@@ -352,7 +352,7 @@
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-06-21": 489,
+      "2024-06-21": 1086,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 612
@@ -393,7 +393,7 @@
     "timeMonth": 674,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-06-21": 489,
+      "2024-06-21": 1086,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 612
