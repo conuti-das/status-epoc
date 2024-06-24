@@ -1,7 +1,7 @@
 url: $MPS_NIFI
-status: down
-code: 503
-responseTime: 498
-lastUpdated: 2024-06-23T23:03:40.068Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2024-06-24T21:50:05.021Z
 startTime: 2024-06-18T13:48:14.727Z
 generator: Upptime <https://github.com/upptime/upptime>
